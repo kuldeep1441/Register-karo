@@ -29,14 +29,11 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     site: "@registerkaro",
     title: "Register-karo - Your Trusted Registration Partner",
-    description: "Register-karo offers comprehensive registration services. Expert support for company registration, compliance, and more.",
-    image: "https://www.register-karo.com/twitter-image.jpg",
+    description: "Register-karo offers comprehensive registration services. Expert support for company registration, compliance, and more."
   },
   icons: {
     icon: "/favicon.ico",
-    apple: "/apple-touch-icon.png",
-    android: "/android-chrome-192x192.png",
-    ms: "/mstile-150x150.png",
+    apple: "/apple-touch-icon.png"
   },
   themeColor: "#ffffff",
   robots: {
@@ -44,7 +41,6 @@ export const metadata: Metadata = {
     follow: true,
   },
   viewport: "width=device-width, initial-scale=1.0",
-  author: "Register-karo Team",
   keywords: "company registration, business registration, compliance, registration services, Register-karo",
 };
 
